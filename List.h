@@ -22,6 +22,8 @@ class List //begin List definition
      
      /** MISSING OPERATIONS */
      //... fill in ....
+     int getNode(int k);
+     void clear();
 
 };//end List definition
 
